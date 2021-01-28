@@ -18,7 +18,7 @@ Here are screen shots to help orient you and give context to the code you'll be 
 
 ### Demo
 
-You're welcome to [view a demo video of the full app](https://youtu.be/z1_PU_QzOJI)! It's a little over 7 minutes long.
+You're welcome to <a href="https://youtu.be/z1_PU_QzOJI" target="_blank">view a demo video of the full app</a>! It's a little over 7 minutes long.
 
 ### Summary
 
